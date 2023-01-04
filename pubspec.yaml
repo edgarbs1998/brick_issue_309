@@ -10,7 +10,7 @@ environment:
 dependencies:
   bloc: ^8.1.0
   brick_offline_first_with_rest: ^1.1.0
-  brick_sqlite: any
+  brick_sqlite: ^2.1.0
   equatable: ^2.0.5
   flutter:
     sdk: flutter
@@ -18,17 +18,16 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   intl: ^0.17.0
-  sqflite: any
+  sqflite: ^2.2.2
 
 dev_dependencies:
-  bloc_test: ^9.1.0
-  brick_offline_first_with_rest_build: any
-  build_runner: any
-  flutter_test:
-    sdk: flutter
-  mocktail: ^0.3.0
+  brick_offline_first_with_rest_build: ^2.1.0
+  build_runner: ^2.3.3
+  flutter_gen_runner: ^5.1.0+1
   very_good_analysis: ^3.1.0
 
 flutter:
   uses-material-design: true
   generate: true
+  assets:
+    - assets/images/
