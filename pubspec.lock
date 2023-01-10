@@ -98,7 +98,7 @@ packages:
       name: brick_offline_first_with_rest
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.1.0"
+    version: "1.1.1"
   brick_offline_first_with_rest_abstract:
     dependency: transitive
     description:

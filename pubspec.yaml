@@ -9,7 +9,7 @@ environment:
 
 dependencies:
   bloc: ^8.1.0
-  brick_offline_first_with_rest: ^1.1.0
+  brick_offline_first_with_rest: ^1.1.1
   brick_sqlite: any
   equatable: ^2.0.5
   flutter:
