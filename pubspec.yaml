@@ -8,7 +8,7 @@ environment:
   flutter: 3.3.8
 
 dependencies:
-  bloc: ^8.1.0
+  bloc: ^8.1.1
   brick_offline_first_with_rest: ^1.1.0
   brick_sqlite: any
   equatable: ^2.0.5
