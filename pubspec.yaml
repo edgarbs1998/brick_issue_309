@@ -22,7 +22,7 @@ dependencies:
 
 dev_dependencies:
   bloc_test: ^9.1.0
-  brick_offline_first_with_rest_build: any
+  brick_offline_first_with_rest_build: ^2.1.1
   build_runner: any
   flutter_test:
     sdk: flutter
